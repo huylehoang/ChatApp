@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>1035494257488-tc4ukc14g7tip22gs3gslsotc99d7qfi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1035494257488-tc4ukc14g7tip22gs3gslsotc99d7qfi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYy-CsuZT8Tafahb9Uk_4hY2UltL3QgAM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1035494257488</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>LeeX.ChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>chat-a6519</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat-a6519.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1035494257488:ios:c2c24262ed722d5b</string>
+	<key>DATABASE_URL</key>
+	<string>https://chat-a6519.firebaseio.com</string>
+</dict>
+</plist>
